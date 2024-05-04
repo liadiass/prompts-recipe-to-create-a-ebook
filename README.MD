@@ -16,12 +16,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebookhttps://file:///C:/Users/natha/Downloads/Cubo-Magico-Desvendando-os-Segredos-como-um-Ninja.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://assets.api.gamma.app/export/pdf/boi8zkjbybglse7/d84408c0288d206c2860a50d4a07f926/Cubo-Magico-Desvendando-os-Segredos-como-um-Ninja.pdf title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/liadiass/prompts-recipe-to-create-a-ebook/https://assets.api.gamma.app/export/pdf/boi8zkjbybglse7/d84408c0288d206c2860a50d4a07f926/Cubo-Magico-Desvendando-os-Segredos-como-um-Ninja.pdf title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
